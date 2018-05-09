@@ -259,6 +259,12 @@ hr.line2 {
 
 
     }
+	
+	input::placeholder {
+      color: gray;
+      text-indent: 300px;
+
+    }
 
     #zipcode {
      width: 35%;
